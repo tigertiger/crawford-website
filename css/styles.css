@@ -12,3 +12,30 @@ h1 {
 .midpic {
   width:30%;
 }
+
+.homeButton {
+  margin-top:50px;
+  font-weight: bold;
+  font-family:sans-serif;
+}
+
+/* body {
+  background-color: lightgrey;
+} */
+
+
+.topline {
+  width: 100%;
+  border-spacing: 2px;
+  border-bottom: solid rgb(12, 11, 11);
+  border-bottom-width: 5px;
+  /* background-color: lightskyblue; */
+  box-sizing: border-box;
+}
+
+.topleft {
+  /* float: left; */
+  border-spacing: 20px;
+  margin: 2px;
+}
+
